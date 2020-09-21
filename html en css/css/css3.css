@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: xx-large ;
+    color: white;
+    font-style: italic;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+p {
+    color: white;
+    position: relative;
+    top: 35%;
+    right: 26.5%;
+}
+
+h3 {
+    color: white;
+    font-size: x-large;
+    position: relative;
+    top: -5%;
+}
+
+h4 {
+    color: white;
+    font-size: x-large;
+    position: relative;
+    top: 5%;
+}
+
+.bal {
+    position: relative;
+    left: 80%;
+    bottom: 100px;
+    float: initial;
+    margin: 5px;
+}
+
+
+
+a:hover{
+    color:  rgb(163, 163, 163);
+}
+
+.hond {
+    border: 2px solid white;
+    height: 250px;
+    width: 400px;
+    float: left;
+    margin-right: 5px;
+}
